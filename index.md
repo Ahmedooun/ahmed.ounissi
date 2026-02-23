@@ -12,4 +12,4 @@ Computer Engineering Student at UTBM.
 ---
 
 ## 🚀 Projects
-👉 [View my projects](/projects/)
+👉 [View my projects](/projects/index.md)
