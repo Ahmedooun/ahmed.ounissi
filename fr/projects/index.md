@@ -14,7 +14,7 @@ Voici une sélection de mes projets académiques et personnels.
 Site web d’agence de voyage développé en PHP avec gestion des données en SQL.
 
 **Technologies :** PHP · HTML/CSS · SQL  
-👉 [https://github.com/Ahmedooun/Travel_Agency_Project]
+👉 voir projet [ici](https://github.com/Ahmedooun/Travel_Agency_Project)
 
 ---
 
@@ -22,7 +22,7 @@ Site web d’agence de voyage développé en PHP avec gestion des données en SQ
 Simulation d’un système de contrôle d’accès par badges sur un campus universitaire.
 
 **Technologies :** C++ · CMake  
-👉 https://github.com/Ahmedooun/Gestion_Porte_Universite_Project
+👉 voir projet [ici](https://github.com/Ahmedooun/Gestion_Porte_Universite_Project)
 
 ---
 
@@ -30,7 +30,7 @@ Simulation d’un système de contrôle d’accès par badges sur un campus univ
 Adaptation du jeu de cartes *Love Letter* en Java dans un univers UTBM.
 
 **Technologies :** Java  
-👉 https://github.com/Ahmedooun/LoveLetterUTBM_Project
+👉 voir projet [ici](https://github.com/Ahmedooun/LoveLetterUTBM_Project)
 
 ---
 
@@ -38,7 +38,7 @@ Adaptation du jeu de cartes *Love Letter* en Java dans un univers UTBM.
 Implémentation du jeu Teeko en Python avec interface graphique (Tkinter) et IA basée sur Minimax avec élagage Alpha-Beta.
 
 **Technologies :** Python · Tkinter · IA Minimax  
-👉 https://github.com/Jlcht/Teeko
+👉 voir projet [ici](https://github.com/Jlcht/Teeko)
 
 ---
 
@@ -46,7 +46,7 @@ Implémentation du jeu Teeko en Python avec interface graphique (Tkinter) et IA 
 Projet Arduino visant à optimiser l’orientation et le rendement d’un panneau photovoltaïque mobile.
 
 **Technologies :** Arduino · Capteurs  
-👉 https://github.com/Ahmedooun/Panneau_solair_mobile_Project
+👉 voir projet [ici](https://github.com/Ahmedooun/Panneau_solair_mobile_Project)
 
 ---
 
@@ -54,7 +54,7 @@ Projet Arduino visant à optimiser l’orientation et le rendement d’un pannea
 Implémentation en Java du jeu de cartes “Le Pouilleux”.
 
 **Technologies :** Java  
-👉 https://github.com/Ahmedooun/Le_Pouilleux_Project
+👉 voir projet [ici](https://github.com/Ahmedooun/Le_Pouilleux_Project)
 
 ---
 
@@ -62,4 +62,4 @@ Implémentation en Java du jeu de cartes “Le Pouilleux”.
 Simulation d’un système de gestion d’ascenseurs en C (processus, threads, IPC).
 
 **Technologies :** C · Threads · IPC  
-👉 https://github.com/Ahmedooun/SY40-Project-Ascenseurs
+👉 voir projet [ici](https://github.com/Ahmedooun/SY40-Project-Ascenseurs)
