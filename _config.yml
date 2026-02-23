@@ -1,0 +1,120 @@
+# =========================
+# Site basics
+# =========================
+title: "Ahmed Ounissi"
+tagline: "Computer Engineering Student · Portfolio"
+description: "Bilingual (EN/FR) engineering portfolio showcasing software, web, and embedded projects."
+url: "https://Ahmedooun.github.io"   # 🔁 remplace <TON-USERNAME>
+baseurl: "/ahmed.ounissi"                # ✅ important for project site repos
+
+# =========================
+# Author / SEO
+# =========================
+author:
+  name: "Ahmed Ounissi"
+  email: "ahmed-ounissi@hotmail.com"                 # 🔁 remplace
+  linkedin: "https://www.linkedin.com/in/tonprofil"  # 🔁 remplace
+  github: "https://github.com/Ahmedooun"
+  location: "France"
+
+# Default language (you asked EN)
+lang: "en"
+locale: "en_US"
+timezone: "Europe/Paris"
+
+# =========================
+# Theme (GitHub Pages compatible)
+# =========================
+theme: minima
+
+# =========================
+# Markdown / Permalinks
+# =========================
+markdown: kramdown
+permalink: pretty
+
+# =========================
+# Plugins supported by GitHub Pages
+# =========================
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# =========================
+# Navigation (use in layout)
+# =========================
+navigation:
+  - title_en: "Home"
+    title_fr: "Accueil"
+    url: "/"
+  - title_en: "Projects"
+    title_fr: "Projets"
+    url: "/projects/"
+  - title_en: "About"
+    title_fr: "À propos"
+    url: "/about/"
+  - title_en: "Contact"
+    title_fr: "Contact"
+    url: "/contact/"
+
+# =========================
+# Bilingual setup (simple, no extra plugin)
+# Convention:
+# - EN pages are at root (default)
+# - FR pages are under /fr/
+# Example:
+#   /projects/      (EN)
+#   /fr/projects/   (FR)
+# =========================
+default_lang: "en"
+languages:
+  - en
+  - fr
+
+# =========================
+# Collections (great for project pages)
+# =========================
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  projects_fr:
+    output: true
+    permalink: /fr/projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+      lang: "en"
+  - scope:
+      type: "projects"
+    values:
+      layout: "project"
+      lang: "en"
+  - scope:
+      type: "projects_fr"
+    values:
+      layout: "project"
+      lang: "fr"
+
+# =========================
+# Social / SEO
+# =========================
+social:
+  name: "Ahmed Ounissi"
+  links:
+    - "https://github.com/Ahmedooun"
+    - "https://www.linkedin.com/in/tonprofil"  # 🔁 remplace
+
+# =========================
+# Build hygiene
+# =========================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
