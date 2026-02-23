@@ -8,6 +8,6 @@ lang: fr
 
 N’hésitez pas à me contacter :
 
-📧 Email : ahmed-ounissi@hotmail.com  
-💼 LinkedIn : https://linkedin.com/in/tonprofil  
-🐙 GitHub : https://github.com/Ahmedooun
+📧 [Email](ahmed-ounissi@hotmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/tonprofil)  
+🐙 [GitHub](https://github.com/Ahmedooun)
