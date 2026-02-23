@@ -89,6 +89,14 @@ Software Development • Artificial Intelligence • Embedded Systems
 
 ---
 
+## 🎮 Teeko – Strategy Game with AI
+🇫🇷 Implémentation du jeu de stratégie **Teeko** en Python avec interface graphique (Tkinter) et une IA basée sur **Minimax** avec élagage **Alpha-Beta**.  
+🇬🇧 Python implementation of the **Teeko** strategy game with a Tkinter GUI and an AI based on **Minimax** with **Alpha-Beta** pruning.
+
+👉 https://github.com/Jlcht/Teeko
+
+---
+
 # 🌍 Interests / Centres d’intérêt
 
 🇫🇷  
@@ -109,7 +117,7 @@ Software Development • Artificial Intelligence • Embedded Systems
 
 # 📫 Contact
 
-📧 Email: ton-email@example.com  
+📧 Email: ahmed-ounissi@hotmail.com  
 💼 LinkedIn: https://linkedin.com/in/tonprofil  
 🐙 GitHub: https://github.com/Ahmedooun
 
