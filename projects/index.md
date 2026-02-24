@@ -26,8 +26,8 @@ Simulation of a badge-based access control system for a university campus.
 ---
 
 ## 💌 Love Letter – UTBM Edition
-![Love Letter Screenshot](/images/love1.png)
-![Love Letter Demo](/images/love2.gif)
+![Love Letter Screenshot](../images/love1.png)
+![Love Letter Demo](../images/love2.gif)
 
 Java implementation of the *Love Letter* card game adapted to the UTBM environment.
 
@@ -37,8 +37,8 @@ Java implementation of the *Love Letter* card game adapted to the UTBM environme
 ---
 
 ## 🎮 Teeko – Strategy Game with AI
-![Teeko Screenshot](/images/teeko1.png)
-![Teeko Demo](/images/teeko2.gif)
+![Teeko Screenshot](../images/teeko1.png)
+![Teeko Demo](../images/teeko2.gif)
 
 Python implementation of the Teeko strategy game with a Tkinter GUI and an AI based on Minimax with Alpha-Beta pruning.
 
@@ -56,8 +56,8 @@ Arduino project focused on optimizing the orientation and efficiency of a mobile
 ---
 
 ## 🃏 Le Pouilleux
-![Le Pouilleux Screenshot](/images/pouilleux1.png)
-![Le Pouilleux Demo](/images/pouilleux2.png)
+![Le Pouilleux Screenshot](../images/pouilleux1.png)
+![Le Pouilleux Demo](../images/pouilleux2.png)
 
 Java implementation of the card game “Le Pouilleux”.
 
