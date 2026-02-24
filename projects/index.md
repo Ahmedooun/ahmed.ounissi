@@ -34,6 +34,7 @@ Java implementation of the *Love Letter* card game adapted to the UTBM environme
 ---
 
 ## 🎮 Teeko – Strategy Game with AI
+![Teeko Screenshot](/images/teeko1.png)
 Python implementation of the Teeko strategy game with a Tkinter GUI and an AI based on Minimax with Alpha-Beta pruning.
 
 **Technologies:** Python · Tkinter · Minimax  
