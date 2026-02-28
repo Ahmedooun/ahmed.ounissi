@@ -29,7 +29,7 @@ Projet réalisé en trio sur une durée de 8 semaines durant le premier semestre
 
 Lors de ce projet, la conception UML était essentielle. Avec mon groupe, nous avons donc mis l’accent sur la modélisation et l’architecture du programme avant le développement. J’ai particulièrement apprécié ce projet, car programmer un jeu reste très stimulant… et nous pouvions y jouer une fois terminé !
 
-![Love Letter Screenshot](/tree/main/images/love1.png)
+![Love Letter Screenshot](./images/love1.png)
 ![Love Letter Screenshot](../images/love2.gif)
 
 **Technologies :** Java  
