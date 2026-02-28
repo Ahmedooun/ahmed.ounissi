@@ -91,9 +91,9 @@ Projet réalisé en trio sur une durée de 8 semaines durant le premier semestre
 
 Ce projet m’a permis de comprendre le fonctionnement des capteurs et leur programmation avec Arduino. Même si j’ai beaucoup apprécié cette expérience, j’ai trouvé le câblage assez complexe. Mes coéquipiers et moi avons consacré beaucoup de temps à cette partie, mais malgré les difficultés, le projet est resté extrêmement passionnant.
 
-![Solar Screenshot](../../images/solar1.png)
-![Solar Screenshot](../../images/solar1.png)
-![Solar Screenshot](../../images/solar1.png)
+![Solar Screenshot](../../images/solar1.jpg)
+![Solar Screenshot](../../images/solar2.jpg)
+![Solar Screenshot](../../images/solar3.png)
 
 **Technologies :** Arduino · Capteurs  
 👉 voir projet [ici](https://github.com/Ahmedooun/Panneau_solair_mobile_Project)
