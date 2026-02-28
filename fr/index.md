@@ -15,4 +15,4 @@ Le métier d’ingénieur offre de nombreuses opportunités à l’international
 ---
 
 ## 🚀 Projets
-👉 [Voir mes projets](/projects/index.md)
+👉 [Voir mes projets](/fr/projects/index.md)
