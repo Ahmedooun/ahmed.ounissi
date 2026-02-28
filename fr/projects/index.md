@@ -29,6 +29,9 @@ Projet réalisé en trio sur une durée de 8 semaines durant le premier semestre
 
 Lors de ce projet, la conception UML était essentielle. Avec mon groupe, nous avons donc mis l’accent sur la modélisation et l’architecture du programme avant le développement. J’ai particulièrement apprécié ce projet, car programmer un jeu reste très stimulant… et nous pouvions y jouer une fois terminé !
 
+![Love Letter Screenshot](../images/love1.png)
+![Love Letter Screenshot](../images/love2.png)
+
 **Technologies :** Java  
 👉 voir projet [ici](https://github.com/Ahmedooun/LoveLetterUTBM_Project)
 
@@ -40,6 +43,9 @@ Implémentation du jeu Teeko en Python avec interface graphique (Tkinter) et IA 
 Projet réalisé en groupe de 4 sur une durée de 10 semaines durant le premier semestre de ma 3ᵉ année (BAC+3).
 
 Ce projet m’a permis de comprendre et maîtriser les bases de l’intelligence artificielle avec Prolog. Ce qui m’a le plus plu, c’est d’avoir appris énormément sur l’IA, un domaine qui passionne beaucoup de monde. Découvrir ce sujet en développant un jeu a rendu l’expérience encore plus enrichissante et motivante.
+
+![Teeko Letter Screenshot](../images/teeko1.png)
+![Teeko Letter Screenshot](../images/teeko2.png)
 
 **Technologies :** Python · Tkinter · IA Minimax  
 👉 voir projet [ici](https://github.com/Jlcht/Teeko)
@@ -64,6 +70,9 @@ Implémentation en Java du jeu de cartes “Le Pouilleux”.
 Projet réalisé en trio sur une durée de 8 semaines durant le deuxième semestre de ma 2ᵉ année (BAC+2).
 
 Il s’agissait de mon premier véritable contact avec la programmation orientée objet. Programmer un jeu est toujours motivant, mais ce projet m’a surtout permis de mieux comprendre des concepts parfois complexes pour un débutant, tels que le polymorphisme, l’héritage de classes ou encore l’abstraction.
+
+![Pouilleux Letter Screenshot](../images/pouilleux1.png)
+![Pouilleux Letter Screenshot](../images/pouilleux2.png)
 
 **Technologies :** Java  
 👉 voir projet [ici](https://github.com/Ahmedooun/Le_Pouilleux_Project)
