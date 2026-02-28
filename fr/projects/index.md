@@ -17,6 +17,8 @@ J’ai réalisé ce projet seul sur une durée de 7 semaines durant le premier s
 
 Après une première expérience avec la programmation orientée objet (POO), ce projet m’a permis d’approfondir mes connaissances et de renforcer mes compétences dans ce domaine. J’ai beaucoup apprécié cette expérience car, même si j’aime travailler en équipe, le fait d’avoir mené ce projet entièrement seul m’a apporté une grande satisfaction.
 
+![Simu Screenshot](/images/universite1.gif)
+
 **Technologies :** C++ · CMake  
 👉 voir projet [ici](https://github.com/Ahmedooun/Gestion_Porte_Universite_Project)
 
@@ -45,7 +47,7 @@ Projet réalisé en groupe de 4 sur une durée de 10 semaines durant le premier 
 Ce projet m’a permis de comprendre et maîtriser les bases de l’intelligence artificielle avec Prolog. Ce qui m’a le plus plu, c’est d’avoir appris énormément sur l’IA, un domaine qui passionne beaucoup de monde. Découvrir ce sujet en développant un jeu a rendu l’expérience encore plus enrichissante et motivante.
 
 ![Teeko Letter Screenshot](/images/teeko1.png)
-![Teeko Letter Screenshot](/images/teeko2.png)
+![Teeko Letter Screenshot](/images/teeko2.gif)
 
 **Technologies :** Python · Tkinter · IA Minimax  
 👉 voir projet [ici](https://github.com/Jlcht/Teeko)
@@ -58,6 +60,8 @@ Simulation d’un système de gestion d’ascenseurs en C (processus, threads, I
 Projet réalisé en trio sur une durée de 9 semaines durant le premier semestre de ma 3ᵉ année (BAC+3).
 
 Ce projet m’a permis d’approfondir ma compréhension de la programmation système. Je l’ai trouvé exigeant techniquement, mais grâce au travail en équipe, nous avons réussi à produire un projet solide et bien structuré.
+
+![Asc Screenshot](/images/ascenseur1.gif)
 
 **Technologies :** C · Threads · IPC  
 👉 voir projet [ici](https://github.com/Ahmedooun/SY40-Project-Ascenseurs)
@@ -73,6 +77,7 @@ Il s’agissait de mon premier véritable contact avec la programmation orienté
 
 ![Pouilleux Letter Screenshot](/images/pouilleux1.png)
 ![Pouilleux Letter Screenshot](/images/pouilleux2.png)
+![Pouilleux Letter Screenshot](/images/pouilleux3.gif)
 
 **Technologies :** Java  
 👉 voir projet [ici](https://github.com/Ahmedooun/Le_Pouilleux_Project)
