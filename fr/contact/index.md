@@ -9,5 +9,5 @@ lang: fr
 N’hésitez pas à me contacter :
 
 📧 Email : ahmed-ounissi@hotmail.com  
-💼 [LinkedIn](https://linkedin.com/in/tonprofil)  
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ounissi-98bb88290/)  
 🐙 [GitHub](https://github.com/Ahmedooun)
