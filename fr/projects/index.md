@@ -91,6 +91,10 @@ Projet réalisé en trio sur une durée de 8 semaines durant le premier semestre
 
 Ce projet m’a permis de comprendre le fonctionnement des capteurs et leur programmation avec Arduino. Même si j’ai beaucoup apprécié cette expérience, j’ai trouvé le câblage assez complexe. Mes coéquipiers et moi avons consacré beaucoup de temps à cette partie, mais malgré les difficultés, le projet est resté extrêmement passionnant.
 
+![Solar Screenshot](../../images/solar1.png)
+![Solar Screenshot](../../images/solar1.png)
+![Solar Screenshot](../../images/solar1.png)
+
 **Technologies :** Arduino · Capteurs  
 👉 voir projet [ici](https://github.com/Ahmedooun/Panneau_solair_mobile_Project)
 
@@ -102,6 +106,9 @@ Site web d’agence de voyage développé en PHP avec gestion des données en SQ
 Ce projet a été réalisé en duo sur une durée de 8 semaines durant le premier semestre de ma 2ᵉ année (BAC+2).
 
 Il s’agissait de mon premier contact avec le développement web. Ce que j’ai particulièrement apprécié dans ce projet, c’est le fait d’avoir créé mon premier site internet dynamique avec une base de données et surtout d’avoir compris son fonctionnement global.
+
+![Web Screenshot](../../images/web1.png)
+![Web Screenshot](../../images/web2.png)
 
 **Technologies :** PHP · HTML/CSS · SQL  
 👉 voir projet [ici](https://github.com/Ahmedooun/Travel_Agency_Project)
