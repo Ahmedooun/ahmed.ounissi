@@ -60,7 +60,7 @@ This project was completed in a team of three over 9 weeks during the first seme
 
 It helped me improve my understanding of system programming. I found it technically challenging, but working as a team allowed us to deliver a well-structured and solid project.
 
-![Asc Screenshot](../images/ascenseur1.png)
+![Asc Screenshot](../images/ascenseur1.gif)
 
 **Technologies:** C · Threads · IPC  
 👉 check the project [here](https://github.com/Ahmedooun/SY40-Project-Ascenseurs)
@@ -92,7 +92,7 @@ It helped me understand how sensors work and how to program them with Arduino. E
 
 ![Solar Screenshot](../images/solar1.jpg)
 ![Solar Screenshot](../images/solar2.jpg)
-![Solar Screenshot](../images/solar3.gif)
+![Solar Screenshot](../images/solar3.png)
 
 **Technologies:** Arduino · Sensors  
 👉 check the project [here](https://github.com/Ahmedooun/Panneau_solair_mobile_Project)
